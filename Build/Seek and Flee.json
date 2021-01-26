@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cubeton",
+"productVersion": "1.0",
+"dataUrl": "Seek and Flee.data.unityweb",
+"wasmCodeUrl": "Seek and Flee.wasm.code.unityweb",
+"wasmFrameworkUrl": "Seek and Flee.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
